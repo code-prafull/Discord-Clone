@@ -4,7 +4,7 @@ A simple Discord clone built using **HTML** and **Tailwind CSS**. This project r
 
 ## 🚀 Live Demo
 
-🔗 [View Live]([https://your-live-link-here.com](https://discord-clone-iota-eight.vercel.app/))
+🔗 [View Live](https://discord-clone-iota-eight.vercel.app/)
 
 
 
